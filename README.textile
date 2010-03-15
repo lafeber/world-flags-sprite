@@ -22,4 +22,4 @@ In the body of your html file:
 If a previously visited site uses this same code, the file is already in the cache of the user and doesn't need to be downloaded again.
 NB: It won't work in https environments. You can download the css files instead and include them locally instead.
 
-See "link the cheese wiki":http://www.cheesewiki.com/ for an example
+See "the cheese wiki":http://www.cheesewiki.com/ for an example

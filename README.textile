@@ -13,8 +13,8 @@ In the body of your html file:
 <pre>
 <ul class="f32">
   <li class="flag ar">Argentina</li>
-  <li class="flag ar">Australia</li>
-  <li class="flag ar">Austria</li>
+  <li class="flag au">Australia</li>
+  <li class="flag at">Austria</li>
 ...
 </ul>
 </pre>

@@ -1,5 +1,4 @@
-#mobile li.menu span.flag {margin:6px 0 0 7px !important;}
-.f32 .flag{background:url(../images/icons/flags32.png) no-repeat; line-height:38px;padding-left:40px; height:32px;}
+.f32 .flag{background:url(../images/flags32.png) no-repeat;}
 .f32 ._African_Union(OAS){background-position:left -0px;}
 .f32 ._Arab_League{background-position:left -32px;}
 .f32 ._ASEAN{background-position:left -64px;}

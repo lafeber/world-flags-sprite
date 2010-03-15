@@ -1,0 +1,23 @@
+h1. The flags of all countries in the world in one sprite
+
+Include 1 css file and have all the worlds' flags on your site. Tell everyone who uses a lot of country flags to use this link, so it will be in everyone's cache!
+
+h2. Example usage:
+
+In the head of your html file:
+
+@<link rel="stylesheet" type="text/css" src="http://cloud.github.com/downloads/lafeber/world-flags-sprite/flags32.css" />@
+
+In the body of your html file:
+
+@<ul class="f32">
+  <li class="flag ar">Argentina</li>
+  <li class="flag ar">Australia</li>
+  <li class="flag ar">Austria</li>
+...
+</ul>@
+
+If a previously visited site uses this same code, the file is already in the cache of the user and doesn't need to be downloaded again.
+NB: It won't work in https environments. You can download the css files instead and include them locally instead.
+
+See "link the cheese wiki":http://www.cheesewiki.com/ for an example

@@ -6,16 +6,18 @@ h2. Example usage:
 
 In the head of your html file:
 
-@<link rel="stylesheet" type="text/css" src="http://cloud.github.com/downloads/lafeber/world-flags-sprite/flags32.css" />@
+@<link rel="stylesheet" type="text/css" href="http://cloud.github.com/downloads/lafeber/world-flags-sprite/flags32.css" />@
 
 In the body of your html file:
 
-pre.<ul class="f32">
+<pre>
+<ul class="f32">
   <li class="flag ar">Argentina</li>
   <li class="flag ar">Australia</li>
   <li class="flag ar">Austria</li>
 ...
 </ul>
+</pre>
 
 If a previously visited site uses this same code, the file is already in the cache of the user and doesn't need to be downloaded again.
 NB: It won't work in https environments. You can download the css files instead and include them locally instead.

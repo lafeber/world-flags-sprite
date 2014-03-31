@@ -87,9 +87,9 @@
 .f16 .fj{background-position:0 -1376px;}
 .f16 .fm{background-position:0 -1392px;}
 .f16 .fo{background-position:0 -1408px;}
-.f16 .fr{background-position:0 -1424px;}
+.f16 .fr{background-position:0 -1424px;}  .f16 .bl, .f16 .cp, .f16 .mf, .f16 .yt{background-position:0 -1424px;}
 .f16 .ga{background-position:0 -1440px;}
-.f16 .gb{background-position:0 -1456px;}
+.f16 .gb{background-position:0 -1456px;}  .f16 .sh{background-position:0 -1456px;}
 .f16 .gd{background-position:0 -1472px;}
 .f16 .ge{background-position:0 -1488px;}
 .f16 .gg{background-position:0 -1504px;}
@@ -171,8 +171,8 @@
 .f16 .ne{background-position:0 -2704px;}
 .f16 .ng{background-position:0 -2720px;}
 .f16 .ni{background-position:0 -2736px;}
-.f16 .nl{background-position:0 -2752px;}
-.f16 .no{background-position:0 -2768px;}
+.f16 .nl{background-position:0 -2752px;}  .f16 .bq{background-position:0 -2752px;}
+.f16 .no{background-position:0 -2768px;}  .f16 .bv, .f16 .nq, .f16 .sj{background-position:0 -2768px;}
 .f16 .np{background-position:0 -2784px;}
 .f16 .nr{background-position:0 -2800px;}
 .f16 .nz{background-position:0 -2816px;}

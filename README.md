@@ -7,7 +7,11 @@ Include 1 css file and have all the worlds' flags on your site. Tell everyone wh
 In the head of your html file:
 
 ```html
-<link rel="stylesheet" type="text/css" href="http://cloud.github.com/downloads/lafeber/world-flags-sprite/flags32.css" />
+<link
+    rel="stylesheet"
+    type="text/css"
+    href="http://cloud.github.com/downloads/lafeber/world-flags-sprite/flags32.css"
+/>
 ```
 
 In the body of your html file:

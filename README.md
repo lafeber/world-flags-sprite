@@ -10,7 +10,7 @@ In the head of your html file:
 <link
     rel="stylesheet"
     type="text/css"
-    href="http://cloud.github.com/downloads/lafeber/world-flags-sprite/flags32.css"
+    href="//cloud.github.com/downloads/lafeber/world-flags-sprite/flags32.css"
 />
 ```
 
@@ -28,6 +28,5 @@ In the body of your html file:
 The countries corresponding to the codes can be found at: [http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 
 If a previously visited site uses this same code, the file is already in the cache of the user and doesn't need to be downloaded again.
-NB: It won't work in https environments. You can download the css files and include them locally instead.
 
 See *the cheese wiki*: http://www.cheesewiki.com/ for an example

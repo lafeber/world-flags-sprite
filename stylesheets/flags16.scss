@@ -1,6 +1,7 @@
+$flags-images-path: "../images" !default; //Override this variable in your .scss to use bower.
 .f16 {
 
-    .flag{background:url(../images/flags16.png) no-repeat;}
+    .flag{background:url(#{$flags-images-path}/flags16.png) no-repeat;}
 
     ._African_Union{background-position:0 -16px;}
     ._Arab_League{background-position:0 -32px;}

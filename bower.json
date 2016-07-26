@@ -1,5 +1,8 @@
 {
   "name": "world-flags-sprite",
   "version": "0.0.2",
-  "main": "stylesheets/flags32.css"
+  "main": [
+    "stylesheets/flags32.css",
+    "stylesheets/flags16.css"
+  ]
 }

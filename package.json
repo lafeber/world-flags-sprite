@@ -1,0 +1,25 @@
+{
+  "name": "world-flags-sprite",
+  "version": "0.0.2",
+  "description": "A sprite of all the worlds' flags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lafeber/world-flags-sprite.git"
+  },
+  "keywords": [
+    "world",
+    "flags",
+    "sprite",
+    "css"
+  ],
+  "author": "Martijn Lafeber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lafeber/world-flags-sprite/issues"
+  },
+  "homepage": "https://github.com/lafeber/world-flags-sprite#readme"
+}

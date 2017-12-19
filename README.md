@@ -10,7 +10,7 @@ In the head of your html file:
 <link
     rel="stylesheet"
     type="text/css"
-    href="//cloud.github.com/downloads/lafeber/world-flags-sprite/flags32.css"
+    href="//github.com/downloads/lafeber/world-flags-sprite/flags32.css"
 />
 ```
 

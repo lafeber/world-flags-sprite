@@ -24,8 +24,18 @@ In the body of your html file:
   ...
 </ul>
 ```
+Or:
+```html
+<ul class="f32">
+  <li class="flag arg">Argentina</li>
+  <li class="flag aus">Australia</li>
+  <li class="flag aut">Austria</li>
+  ...
+</ul>
+```
 
 The countries corresponding to the codes can be found at: [http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
+and [https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3)
 
 If a previously visited site uses this same code, the file is already in the cache of the user and doesn't need to be downloaded again.
 

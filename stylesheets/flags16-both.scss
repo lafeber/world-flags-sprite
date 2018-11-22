@@ -1,0 +1,258 @@
+$flags-images-path: "../images" !default; //Override this variable in your .scss to use bower.
+.f16 {
+
+    .flag{background:url(#{$flags-images-path}/flags16.png) no-repeat;}
+
+    ._African_Union{background-position:0 -16px;}
+    ._Arab_League{background-position:0 -32px;}
+    ._ASEAN{background-position:0 -48px;}
+    ._CARICOM{background-position:0 -64px;}
+    ._CIS{background-position:0 -80px;}
+    ._Commonwealth{background-position:0 -96px;}
+    ._England{background-position:0 -112px;}
+    ._European_Union{background-position:0 -128px;}
+    ._Islamic_Conference{background-position:0 -144px;}
+    ._Kosovo{background-position:0 -160px;}
+    ._NATO{background-position:0 -176px;}
+    ._Northern_Cyprus{background-position:0 -192px;}
+    ._Northern_Ireland{background-position:0 -208px;}
+    ._Olimpic_Movement{background-position:0 -224px;}
+    ._OPEC{background-position:0 -240px;}
+    ._Red_Cross{background-position:0 -256px;}
+    ._Scotland{background-position:0 -272px;}
+    ._Somaliland{background-position:0 -288px;}
+    ._Tibet{background-position:0 -304px;}
+    ._United_Nations{background-position:0 -320px;}
+    ._Wales{background-position:0 -336px;}
+
+    .eu{background-position:0 -128px;}
+
+    .ad{background-position:0 -704px;} .and{@extend .ad;}
+    .ae{background-position:0 -736px;} .are{@extend .ae;}
+    .af{background-position:0 -768px;} .afg{@extend .af;}
+    .ag{background-position:0 -800px;} .atg{@extend .ag;}
+    .ai{background-position:0 -832px;} .aia{@extend .ai;}
+    .al{background-position:0 -864px;} .alb{@extend .al;}
+    .am{background-position:0 -896px;} .arm{@extend .am;}
+    .ao{background-position:0 -928px;} .ago{@extend .ao;}
+    .aq{background-position:0 -960px;} .ata{@extend .aq;}
+    .ar{background-position:0 -992px;} .arg{@extend .ar;}
+    .as{background-position:0 -1024px;} .asm{@extend .as;}
+    .at{background-position:0 -1056px;} .aut{@extend .at;}
+    .au{background-position:0 -1088px;} .aus{@extend .au;}
+    .aw{background-position:0 -1120px;} .abw{@extend .aw;}
+    .ax{background-position:0 -1152px;} .ala{@extend .ax;}
+    .az{background-position:0 -1184px;} .aze{@extend .az;}
+    .ba{background-position:0 -1216px;} .bih{@extend .ba;}
+    .bb{background-position:0 -1248px;} .brb{@extend .bb;}
+    .bd{background-position:0 -1280px;} .bgd{@extend .bd;}
+    .be{background-position:0 -1312px;} .bel{@extend .be;}
+    .bf{background-position:0 -1344px;} .bfa{@extend .bf;}
+    .bg{background-position:0 -1376px;} .bgr{@extend .bg;}
+    .bh{background-position:0 -1408px;} .bhr{@extend .bh;}
+    .bi{background-position:0 -1440px;} .bdi{@extend .bi;}
+    .bj{background-position:0 -1472px;} .ben{@extend .bj;}
+    .bm{background-position:0 -1504px;} .bmu{@extend .bm;}
+    .bn{background-position:0 -1536px;} .brn{@extend .bn;}
+    .bo{background-position:0 -1568px;} .bol{@extend .bo;}
+    .br{background-position:0 -1600px;} .bra{@extend .br;}
+    .bs{background-position:0 -1632px;} .bhs{@extend .bs;}
+    .bt{background-position:0 -1664px;} .btn{@extend .bt;}
+    .bw{background-position:0 -1696px;} .bwa{@extend .bw;}
+    .by{background-position:0 -1728px;} .blr{@extend .by;}
+    .bz{background-position:0 -1760px;} .blz{@extend .bz;}
+    .ca{background-position:0 -1792px;} .can{@extend .ca;}
+    .cd{background-position:0 -1824px;} .cod{@extend .cd;}
+    .cf{background-position:0 -1856px;} .rca{@extend .cf;}
+    .cg{background-position:0 -1888px;} .cog{@extend .cg;}
+    .ch{background-position:0 -1920px;} .che{@extend .ch;}
+    .ci{background-position:0 -1952px;} .civ{@extend .ci;}
+    .ck{background-position:0 -1984px;} .cok{@extend .ck;}
+    .cl{background-position:0 -2016px;} .chl{@extend .cl;}
+    .cm{background-position:0 -2048px;} .cmr{@extend .cm;}
+    .cn{background-position:0 -2080px;} .chn{@extend .cn;}
+    .co{background-position:0 -2112px;} .col{@extend .co;}
+    .cr{background-position:0 -2144px;} .cri{@extend .cr;}
+    .cu{background-position:0 -2176px;} .cub{@extend .cu;}
+    .cv{background-position:0 -2208px;} .cpv{@extend .cv;}
+    .cy{background-position:0 -2240px;} .cyp{@extend .cy;}
+    .cz{background-position:0 -2272px;} .cze{@extend .cz;}
+    .de{background-position:0 -2304px;} .deu{@extend .de;}
+    .dj{background-position:0 -2336px;} .dji{@extend .dj;}
+    .dk{background-position:0 -2368px;} .dnk{@extend .dk;}
+    .dm{background-position:0 -2400px;} .dma{@extend .dm;}
+    .do{background-position:0 -2432px;} .dom{@extend .do;}
+    .dz{background-position:0 -2464px;} .dza{@extend .dz;}
+    .ec{background-position:0 -2496px;} .ecu{@extend .ec;}
+    .ee{background-position:0 -2528px;} .est{@extend .ee;}
+    .eg{background-position:0 -2560px;} .egy{@extend .eg;}
+    .eh{background-position:0 -2592px;} .esh{@extend .eh;}
+    .er{background-position:0 -2624px;} .eri{@extend .er;}
+    .es{background-position:0 -2656px;} .esp{@extend .es;}
+    .et{background-position:0 -2688px;} .eth{@extend .et;}
+    .fi{background-position:0 -2720px;} .fin{@extend .fi;}
+    .fj{background-position:0 -2752px;} .fji{@extend .fj;}
+    .fm{background-position:0 -2784px;} .fsm{@extend .fm;}
+    .fo{background-position:0 -2816px;} .fro{@extend .fo;}
+    .fr{background-position:0 -2848px;}  .bl{background-position:0 -2848px;}  .cp{background-position:0 -2848px;}  .mf{background-position:0 -2848px;}  .yt{background-position:0 -2848px;} .fra{@extend .fr;} .blm{@extend .bl;} .cpt{@extend .cp;} .maf{@extend .mf;} .myt{@extend .yt;}
+    .ga{background-position:0 -2880px;} .gab{@extend .ga;}
+    .gb{background-position:0 -2912px;}  .sh{background-position:0 -2912px;} .gbr{@extend .gb;} .shn{@extend .sh;}
+    .gd{background-position:0 -2944px;} .grd{@extend .gd;}
+    .ge{background-position:0 -2976px;} .geo{@extend .ge;}
+    .gg{background-position:0 -3008px;} .ggy{@extend .gg;}
+    .gh{background-position:0 -3040px;} .gha{@extend .gh;}
+    .gi{background-position:0 -3072px;} .gib{@extend .gi;}
+    .gl{background-position:0 -3104px;} .grl{@extend .gl;}
+    .gm{background-position:0 -3136px;} .gmb{@extend .gm;}
+    .gn{background-position:0 -3168px;} .gin{@extend .gn;}
+    .gp{background-position:0 -3200px;} .glp{@extend .gp;}
+    .gq{background-position:0 -3232px;} .gnq{@extend .gq;}
+    .gr{background-position:0 -3264px;} .grc{@extend .gr;}
+    .gt{background-position:0 -3296px;} .gtm{@extend .gt;}
+    .gu{background-position:0 -3328px;} .gum{@extend .gu;}
+    .gw{background-position:0 -3360px;} .gnb{@extend .gw;}
+    .gy{background-position:0 -3392px;} .guy{@extend .gy;}
+    .hk{background-position:0 -3424px;} .hkg{@extend .hk;}
+    .hn{background-position:0 -3456px;} .hnd{@extend .hn;}
+    .hr{background-position:0 -3488px;} .hrv{@extend .hr;}
+    .ht{background-position:0 -3520px;} .hti{@extend .ht;}
+    .hu{background-position:0 -3552px;} .hun{@extend .hu;}
+    .id{background-position:0 -3584px;} .idn{@extend .id;}
+    .mc{background-position:0 -3584px;} .mco{@extend .mc;}
+    .ie{background-position:0 -3616px;} .idn{@extend .id;}
+    .il{background-position:0 -3648px;} .isr{@extend .il;}
+    .im{background-position:0 -3680px;} .imn{@extend .im;}
+    .in{background-position:0 -3712px;} .ind{@extend .in;}
+    .iq{background-position:0 -3744px;} .irq{@extend .iq;}
+    .ir{background-position:0 -3776px;} .irn{@extend .ir;}
+    .is{background-position:0 -3808px;} .isl{@extend .is;}
+    .it{background-position:0 -3840px;} .ita{@extend .it;}
+    .je{background-position:0 -3872px;} .jey{@extend .je;}
+    .jm{background-position:0 -3904px;} .jam{@extend .jm;}
+    .jo{background-position:0 -3936px;} .jor{@extend .jo;}
+    .jp{background-position:0 -3968px;} .jpn{@extend .jp;}
+    .ke{background-position:0 -4000px;} .ken{@extend .ke;}
+    .kg{background-position:0 -4032px;} .kgz{@extend .kg;}
+    .kh{background-position:0 -4064px;} .khm{@extend .kh;}
+    .ki{background-position:0 -4096px;} .kir{@extend .ki;}
+    .km{background-position:0 -4128px;} .com{@extend .km;}
+    .kn{background-position:0 -4160px;} .kna{@extend .kn;}
+    .kp{background-position:0 -4192px;} .prk{@extend .kp;}
+    .kr{background-position:0 -4224px;} .kor{@extend .kr;}
+    .kw{background-position:0 -4256px;} .kwt{@extend .kw;}
+    .ky{background-position:0 -4288px;} .cym{@extend .ky;}
+    .kz{background-position:0 -4320px;} .kaz{@extend .kz;}
+    .la{background-position:0 -4352px;} .lao{@extend .la;}
+    .lb{background-position:0 -4384px;} .lbn{@extend .lb;}
+    .lc{background-position:0 -4416px;} .lca{@extend .lc;}
+    .li{background-position:0 -4448px;} .lie{@extend .li;}
+    .lk{background-position:0 -4480px;} .lka{@extend .lk;}
+    .lr{background-position:0 -4512px;} .lbr{@extend .lr;}
+    .ls{background-position:0 -4544px;} .lso{@extend .ls;}
+    .lt{background-position:0 -4576px;} .ltu{@extend .lt;}
+    .lu{background-position:0 -4608px;} .lux{@extend .lu;}
+    .lv{background-position:0 -4640px;} .lva{@extend .lv;}
+    .ly{background-position:0 -4672px;} .lby{@extend .ly;}
+    .ma{background-position:0 -4704px;} .mar{@extend .ma;}
+    .md{background-position:0 -4736px;} .mda{@extend .md;}
+    .me{background-position:0 -4768px;} .mne{@extend .me;}
+    .mg{background-position:0 -4800px;} .mdg{@extend .mg;}
+    .mh{background-position:0 -4832px;} .mhl{@extend .mh;}
+    .mk{background-position:0 -4864px;} .mkd{@extend .mk;}
+    .ml{background-position:0 -4896px;} .mli{@extend .ml;}
+    .mm{background-position:0 -4928px;} .mmr{@extend .mm;}
+    .mn{background-position:0 -4960px;} .mng{@extend .mn;}
+    .mo{background-position:0 -4992px;} .mac{@extend .mo;}
+    .mq{background-position:0 -5024px;} .mtq{@extend .mq;}
+    .mr{background-position:0 -5056px;} .mrt{@extend .mr;}
+    .ms{background-position:0 -5088px;} .msr{@extend .ms;}
+    .mt{background-position:0 -5120px;} .mlt{@extend .mt;}
+    .mu{background-position:0 -5152px;} .mus{@extend .mu;}
+    .mv{background-position:0 -5184px;} .mdv{@extend .mv;}
+    .mw{background-position:0 -5216px;} .mwi{@extend .mw;}
+    .mx{background-position:0 -5248px;} .mex{@extend .mx;}
+    .my{background-position:0 -5280px;} .mys{@extend .my;}
+    .mz{background-position:0 -5312px;} .moz{@extend .mz;}
+    .na{background-position:0 -5344px;} .nam{@extend .na;}
+    .nc{background-position:0 -5376px;} .ncl{@extend .nc;}
+    .ne{background-position:0 -5408px;} .ner{@extend .ne;}
+    .ng{background-position:0 -5440px;} .nga{@extend .ng;}
+    .ni{background-position:0 -5472px;} .nic{@extend .ni;}
+    .nl{background-position:0 -5504px;}  .bq{background-position:0 -5504px;} .nld{@extend .nl;} .bes{@extend .bq;}
+    .no{background-position:0 -5536px;}  .bv{background-position:0 -5536px;}  .nq{background-position:0 -5536px;}  .sj{background-position:0 -5536px;} .nor{@extend .no;} .bvt{@extend .bv;} .atn{@extend .nq;} .sjm{@extend .sj;}
+    .np{background-position:0 -5568px;} .npl{@extend .np;}
+    .nr{background-position:0 -5600px;} .nru{@extend .nr;}
+    .nz{background-position:0 -5632px;} .nzl{@extend .nz;}
+    .om{background-position:0 -5664px;} .omn{@extend .om;}
+    .pa{background-position:0 -5696px;} .pan{@extend .pa;}
+    .pe{background-position:0 -5728px;} .per{@extend .pe;}
+    .pf{background-position:0 -5760px;} .pyf{@extend .pf;}
+    .pg{background-position:0 -5792px;} .png{@extend .pg;}
+    .ph{background-position:0 -5824px;} .phl{@extend .ph;}
+    .pk{background-position:0 -5856px;} .pak{@extend .pk;}
+    .pl{background-position:0 -5888px;} .pol{@extend .pl;}
+    .pr{background-position:0 -5920px;} .pri{@extend .pr;}
+    .ps{background-position:0 -5952px;} .pse{@extend .ps;}
+    .pt{background-position:0 -5984px;} .prt{@extend .pt;}
+    .pw{background-position:0 -6016px;} .plw{@extend .pw;}
+    .py{background-position:0 -6048px;} .pry{@extend .py;}
+    .qa{background-position:0 -6080px;} .qat{@extend .qa;}
+    .re{background-position:0 -6112px;} .reu{@extend .re;}
+    .ro{background-position:0 -6144px;} .rou{@extend .ro;}
+    .rs{background-position:0 -6176px;} .srb{@extend .rs;}
+    .ru{background-position:0 -6208px;} .rus{@extend .ru;}
+    .rw{background-position:0 -6240px;} .rwa{@extend .rw;}
+    .sa{background-position:0 -6272px;} .sau{@extend .sa;}
+    .sb{background-position:0 -6304px;} .slb{@extend .sb;}
+    .sc{background-position:0 -6336px;} .syc{@extend .sc;}
+    .sd{background-position:0 -6368px;} .sdn{@extend .sd;}
+    .se{background-position:0 -6400px;} .swe{@extend .se;}
+    .sg{background-position:0 -6432px;} .sgp{@extend .sg;}
+    .si{background-position:0 -6464px;} .svn{@extend .si;}
+    .sk{background-position:0 -6496px;} .svk{@extend .sk;}
+    .sl{background-position:0 -6528px;} .sle{@extend .sl;}
+    .sm{background-position:0 -6560px;} .smr{@extend .sm;}
+    .sn{background-position:0 -6592px;} .sen{@extend .sn;}
+    .so{background-position:0 -6624px;} .som{@extend .so;}
+    .sr{background-position:0 -6656px;} .sur{@extend .sr;}
+    .st{background-position:0 -6688px;} .stp{@extend .st;}
+    .sv{background-position:0 -6720px;} .slv{@extend .sv;}
+    .sy{background-position:0 -6752px;} .syr{@extend .sy;}
+    .sz{background-position:0 -6784px;} .swz{@extend .sz;}
+    .tc{background-position:0 -6816px;} .tca{@extend .tc;}
+    .td{background-position:0 -6848px;} .tcd{@extend .td;}
+    .tg{background-position:0 -6880px;} .tgo{@extend .tg;}
+    .th{background-position:0 -6912px;} .tha{@extend .th;}
+    .tj{background-position:0 -6944px;} .tjk{@extend .tj;}
+    .tl{background-position:0 -6976px;} .tls{@extend .tl;}
+    .tm{background-position:0 -7008px;} .tkm{@extend .tm;}
+    .tn{background-position:0 -7040px;} .tun{@extend .tn;}
+    .to{background-position:0 -7072px;} .ton{@extend .to;}
+    .tr{background-position:0 -7104px;} .tur{@extend .tr;}
+    .tt{background-position:0 -7136px;} .tto{@extend .tt;}
+    .tv{background-position:0 -7168px;} .tuv{@extend .tv;}
+    .tw{background-position:0 -7200px;} .twn{@extend .tw;}
+    .tz{background-position:0 -7232px;} .tza{@extend .tz;}
+    .ua{background-position:0 -7264px;} .ukr{@extend .ua;}
+    .ug{background-position:0 -7296px;} .uga{@extend .ug;}
+    .us{background-position:0 -7328px;} .usa{@extend .us;}
+    .uy{background-position:0 -7360px;} .ury{@extend .uy;}
+    .uz{background-position:0 -7392px;} .uzb{@extend .uz;}
+    .va{background-position:0 -7424px;} .vat{@extend .va;}
+    .vc{background-position:0 -7456px;} .vct{@extend .vc;}
+    .ve{background-position:0 -7488px;} .ven{@extend .ve;}
+    .vg{background-position:0 -7520px;} .vgb{@extend .vg;}
+    .vi{background-position:0 -7552px;} .vir{@extend .vi;}
+    .vn{background-position:0 -7584px;} .vnm{@extend .vn;}
+    .vu{background-position:0 -7616px;} .vut{@extend .vu;}
+    .ws{background-position:0 -7648px;} .wsm{@extend .ws;}
+    .ye{background-position:0 -7680px;} .yem{@extend .ye;}
+    .za{background-position:0 -7712px;} .zaf{@extend .za;}
+    .zm{background-position:0 -7744px;} .zmb{@extend .zm;}
+    .zw{background-position:0 -7776px;} .zwe{@extend .zw;}
+    .sx{background-position:0 -7808px;} .sxm{@extend .sx;}
+    .cw{background-position:0 -7840px;} .cuw{@extend .cw;}
+    .ss{background-position:0 -7872px;} .ssd{@extend .ss;}
+    .nu{background-position:0 -7904px;} .niu{@extend .nu;}
+
+} // .f16

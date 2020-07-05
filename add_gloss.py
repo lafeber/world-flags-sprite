@@ -1,9 +1,11 @@
+#!/usr/bin/env python
+
 import sys
 import imread
 import numpy as np
 
 for f in sys.argv[1:]:
-    print f
+    print(f)
     im = imread.imread(f)[:, :, :3]
     ramp = np.zeros(im.shape)
     ramp[...] = 0.5

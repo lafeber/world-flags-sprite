@@ -1,8 +1,10 @@
 # The flags of all countries in the world in one sprite
 
-Include 1 css file and have all the worlds' flags on your site. Tell everyone who uses a lot of country flags to use this link, so it will be in everyone's cache!
+Include 1 image, 1 css file and have all the worlds' flags on your site.
 
 ## Example usage:
+
+Copy over the flags32.png and flags32-both.css on your site where you want to use flags.
 
 In the head of your html file:
 
@@ -10,7 +12,7 @@ In the head of your html file:
 <link
     rel="stylesheet"
     type="text/css"
-    href="//github.com/downloads/lafeber/world-flags-sprite/flags32.css"
+    href="/your_css_path/flags32.css"
 />
 ```
 
@@ -36,7 +38,4 @@ Or:
 
 The countries corresponding to the codes can be found at: [http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 and [https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3)
-
-If a previously visited site uses this same code, the file is already in the cache of the user and doesn't need to be downloaded again.
-
-See *the cheese wiki*: http://www.cheesewiki.com/ for an example
+Some territories and organisations have been added on top of the list. You may use their flag by adding an underscore to their name. i.e. `_African_Union`.
